@@ -33,8 +33,6 @@ Desarrollador con experiencia en el diseño y desarrollo de soluciones tecnológ
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shade-Coder&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shade-Coder&layout=compact&theme=tokyonight)
 
 ---
